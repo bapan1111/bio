@@ -1,0 +1,127 @@
+<html>
+<head>
+This is biography of bapan 
+</head>
+<title>
+Bapan
+</title>
+<style>
+body{
+background-color:lightblue;
+margin:0;
+padding:0;
+}
+.container{
+width:60%;
+padding:69px;
+margin:12px auto;
+text-align:middle;
+font-family:arial;
+border:4px solid red;
+border-radius:10px;
+background-color:white;
+
+
+}
+</style>
+<body class="container">
+<br>
+<img src="love.jpg" alt="error" width="200" height="150">
+<br>
+<a>if you want to know about<b>myself</b>then you can check my social media accounts</a>
+<br>
+<a href="https://facebook.com" target="blank">go to facebook</a>
+<br>
+<a href="https://instagram.com" target="blank">go to instagram</a>
+<br>
+<a href="https://twitter.com" target="blank">go to twitter</a>
+
+</br>
+<div>
+<ul>
+<li style="font-size:20px; color:red;">
+I was born in west bengal at <b><i>kantamari</i></b></li>
+<li style="font-size:20px;color:red;">
+I am very foodie<br>
+<label>favourite food list</label><br>
+<select>
+<option>apple</option>
+<option>briyani</option>
+<option>momo</option>
+<option>chowmin<option>
+</select>
+</li>
+</ul>
+</div>
+<div>
+<ol>
+<li style="color:red; font-size:20px;">
+i was started study at first a <b>khichuri school</b>
+</li>
+<li>There was being different type of khichuri school</li>
+<ol>
+<li> P.S. Kichni – Nalanda</li>
+<li>Khichadiya Primary School</li>
+</ol> 
+</ol>
+</div>
+<div>
+<h3>It is my bio</h3>
+<table>
+<thead>
+<tr>
+<th>NAME</th>
+<th>DREAM JOB</th>
+<th>HOBBY<th>
+</tr>
+</thead>
+<tr>
+<td>Bapan Baidya</td>
+<td>jogarer kaj</td>
+<td>practice of jogarer kaj<td>
+</tr>
+</table>
+</div>
+<div>
+<h2>As i want to know others personal details</h2>
+<a>So that is for their</a>
+</div>
+<h2>IT is a form</h2>
+<form action="https://formspree.io/f/mdkgwonr" style="font-size:20px">
+<div>Name:<input type="name"></div>
+<br>
+<div>DOB:<input type="date"></div>
+<br>
+<div>Ph no:<input type="number"></div>
+<br>
+<div>EMAIL:<input type="email"></div>
+<br>are you 18+?<input type="checkbox"></div>
+<br>
+<div>gender:male<input type="radio" name="mygender">female<input type="radio" name="mygender">other<input type="radio" name="mygender">
+<br>
+<br>
+<div>write yourself</div>
+<br>
+<div><textarea name="name" cols="45" rows="20"></textarea>
+<div>
+<br>
+<label>my favourite movie list</lavel>
+<select>
+<option>titanic</option>
+<option>bahubali</option>
+<option>kantara</option>
+<option selected>freddy</option>
+</select>
+<br>
+<a><strong>this is bapan </strong><strong>this is also jogarwalla</strong></a>
+<details>
+<summary>bapan love these girls</summary>
+sathi,priya, anindita,etc.
+</details>
+<div><input type="reset" value="reset now"></div>
+<br>
+<div><input type="submit" value="send"></div>
+
+</form>
+</body>
+</html>
